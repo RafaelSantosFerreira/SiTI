@@ -1,4 +1,3 @@
-Para formatar o texto anterior para um arquivo README.md do Git, você pode seguir a estrutura de Markdown a seguir para organizar o conteúdo de forma clara e atraente:
 
 ```markdown
 # Cálculo de SI e TI para PNGs
