@@ -28,7 +28,7 @@ ffmpeg -f rawvideo -pix_fmt yuv420p -s 1280x720 -r 60 -i /home/gaci/videos/720p/
 Para calcular o SI e TI dos PNGs gerados, execute o script da seguinte maneira:
 
 ```bash
-python3 calculate_siti_enhanced.py <frames_directory>
+python3 calculaSITI.py.py <frames_directory>
 ```
 
 Substitua `<frames_directory>` pelo diretório onde os quadros PNG estão salvos.
